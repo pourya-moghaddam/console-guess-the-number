@@ -1,0 +1,28 @@
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.exe
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.deps.json
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.runtimeconfig.json
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.dll
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.dll
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\refint\GuessTheNumber.dll
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\sp\Desktop\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\ref\GuessTheNumber.dll
+C:\Users\sp\Desktop\New folder\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.exe
+C:\Users\sp\Desktop\New folder\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.deps.json
+C:\Users\sp\Desktop\New folder\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.runtimeconfig.json
+C:\Users\sp\Desktop\New folder\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.dll
+C:\Users\sp\Desktop\New folder\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\sp\Desktop\New folder\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sp\Desktop\New folder\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\sp\Desktop\New folder\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\sp\Desktop\New folder\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\sp\Desktop\New folder\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.dll
+C:\Users\sp\Desktop\New folder\GuessTheNumber\obj\Debug\net6.0\refint\GuessTheNumber.dll
+C:\Users\sp\Desktop\New folder\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\sp\Desktop\New folder\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\sp\Desktop\New folder\GuessTheNumber\obj\Debug\net6.0\ref\GuessTheNumber.dll
